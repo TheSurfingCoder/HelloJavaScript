@@ -5,3 +5,5 @@ let generateTarget = () => {
   
   }
 console.log(generateTarget());
+
+console.log('Matt is doing amazing things!');
